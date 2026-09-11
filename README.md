@@ -19,15 +19,15 @@ A aplicação possui um CRUD de clientes, permitindo gerenciar informações com
 
 * ## 📸 Demonstração do Sistema
 
-### 👥 Tela Inicial
+### 🔍 Tela Inicial
 <img width="1918" height="945" alt="Tela inicial" src="https://github.com/user-attachments/assets/b5549376-eb80-4f39-b1e0-10fa00c4da17" />
 
-### ✏️ Tela Clientes
+### 👥 Tela Clientes
 
 <img width="1919" height="944" alt="Tela Clientes" src="https://github.com/user-attachments/assets/9d7da743-ff85-4c4b-a6b0-eaee6bb81ace" />
 
 
-### 🗑️ Novo Cliente
+### 🥇 Novo Cliente
 
 <img width="1872" height="932" alt="Novo CLiente" src="https://github.com/user-attachments/assets/d84ed76a-68f5-48c0-beba-d4a0e6b2924b" />
 
